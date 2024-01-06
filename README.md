@@ -1,8 +1,8 @@
 <div align="center">
   <p herf="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,unity"/>
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql"/>
-    <img src="https://skillicons.dev/icons?i=git,github"/>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,unity"/><br/>
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql"/><br/>
+    <img src="https://skillicons.dev/icons?i=git,github"/><br/>
   </p>
 </div>
 
