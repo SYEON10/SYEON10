@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <p herf="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,unity"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql"/>
+    <img src="https://skillicons.dev/icons?i=git,github"/>
+  </p>
+</div>
 
 <!--
 **SYEON10/SYEON10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
