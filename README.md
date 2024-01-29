@@ -1,6 +1,6 @@
 <div align="center">
   <h3><b> 🔨Tech Stack </b><h3>
-    <hr class="thin">
+    <hr style="border:0; height:1px; background: #bbb;">
   <p herf="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,cpp,unity"/><br/>
     <img src="https://skillicons.dev/icons?i=java,spring,mysql"/><br/>
