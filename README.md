@@ -17,8 +17,10 @@
       <img src="https://skillicons.dev/icons?i=java,spring,mysql"/><br/>
       <img src="https://skillicons.dev/icons?i=git,github,aws"/><br/>
     </p>
+    <!--
   <h3><b> 🌱Currently Learning </b></h3>
     <h2>OOP, DDD, TDD</h2><br/><br/>
+    -->
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SYEON10&show_icons=true&theme=transparent&rank_icon=github) </br></br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SYEON10&layout=compact)](https://github.com/SYEON10/github-readme-stats)
